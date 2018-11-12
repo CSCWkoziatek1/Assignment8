@@ -19,14 +19,14 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL INJECTION
 
-Vulnerability #2: __________________
+Vulnerability #2: SESSION HIJACKING/FIXATION
 
 
 ## Green
 
 Vulnerability #1: CROSS SITE SCRIPTING
 
-Vulnerability #2: __________________
+Vulnerability #2: USERNAME ENUMERATION
 
 
 ## Red
