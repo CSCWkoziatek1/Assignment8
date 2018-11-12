@@ -31,9 +31,9 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: INSECURE DIRECT OBJECT REFERENCE
 
-Vulnerability #2: __________________
+Vulnerability #2: CROSS-SITE REQUEST FORGERY
 
 
 ## Notes
